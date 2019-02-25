@@ -1,0 +1,19 @@
+2019-02-24 23:01:08,697 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-02-24 23:03:31,449 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.matt:workshopmongo:0.0.1-SNAPSHOT @ C:\Users\fabio\Documents\workspace-spring-tool-suite-4-4.1.2.RELEASE\workshopmongo\pom.xml.
+2019-02-24 23:03:33,021 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /workshopmongo/src/main/java
+2019-02-24 23:03:33,022 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /workshopmongo/src/main/resources
+2019-02-24 23:03:33,036 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /workshopmongo/src/main/resources
+2019-02-24 23:03:33,053 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /workshopmongo/src/test/java
+2019-02-24 23:03:33,487 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2019-02-24 23:03:33,489 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-02-24 23:03:34,284 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.matt:workshopmongo:0.0.1-SNAPSHOT @ C:\Users\fabio\Documents\workspace-spring-tool-suite-4-4.1.2.RELEASE\workshopmongo\pom.xml.
+2019-02-24 23:03:35,732 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /workshopmongo/src/main/java
+2019-02-24 23:03:35,733 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /workshopmongo/src/main/resources
+2019-02-24 23:03:35,733 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /workshopmongo/src/main/resources
+2019-02-24 23:03:35,734 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /workshopmongo/src/test/java
+2019-02-24 23:03:36,091 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-02-24 23:03:37,135 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-24 23:03:37,140 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-24 23:03:37,165 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-24 23:03:37,167 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-24 23:03:37,168 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fabio\Documents\workspace-spring-tool-suite-4-4.1.2.RELEASE\workshopmongo\src\test\resources
