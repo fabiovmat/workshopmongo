@@ -1,0 +1,22 @@
+package com.matt.workshopmongo.resources;
+
+import java.awt.List;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.matt.workshopmongo.domain.User;
+
+@RestController
+@RequestMapping(value="/users")
+
+public class UserResource {
+
+	public List<User> findAll(){
+		
+	}
+	
+	
+	
+	
+}

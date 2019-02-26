@@ -1,0 +1,12 @@
+package com.matt.workshopmongo.domain;
+
+public class User {
+	
+	private String id;
+	private String nome;
+	private String email;
+	
+	public User() {
+	
+
+}
