@@ -1,0 +1,5 @@
+package com.matt.workshopmongo.repository;
+
+public class UserRepository {
+
+}

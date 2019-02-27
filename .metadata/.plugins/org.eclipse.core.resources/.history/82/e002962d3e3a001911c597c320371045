@@ -1,0 +1,5 @@
+package com.matt.workshopmongo.services;
+
+public class UserService {
+
+}
